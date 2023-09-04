@@ -1,9 +1,1 @@
-<html>
-  <head>
-    <body>
-      <a>
-      <img src= "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg">
-      </a>
-    </body>
-  </head>
-</html>
+<img src= "https://cdn.pixabay.com/photo/2023/08/20/20/03/planes-8203121_1280.jpg"›
