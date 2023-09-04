@@ -1,1 +1,1 @@
-<img src= "https://cdn.pixabay.com/photo/2023/08/20/20/03/planes-8203121_1280.jpg"›
+<img src="https://cdn.pixabay.com/photo/2017/07/25/01/22/cat-2536662_1280.jpg" alt="고양이">
